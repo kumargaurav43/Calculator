@@ -25,12 +25,10 @@ body {
 
 
 .video-background {
-  /* Used to position the video and content */
   position: relative;
 }
 
 .video-background__inner {
-  /* Positioned at the top left corner */
   left: 0px;
   position: absolute;
   top: 0px;
@@ -50,22 +48,6 @@ body {
   height: 100%;
   max-width: 100%;
 }
-
-/* .video-background__content {
-  
-  left: 0px;
-  position: absolute;
-  top: 0px;
-
-  height: 100%;
-  width: 100%;
-
-  
-  align-items: center;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-} */
 
 .container {
   z-index: 12;
